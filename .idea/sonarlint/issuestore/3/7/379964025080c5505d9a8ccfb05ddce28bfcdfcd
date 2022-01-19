@@ -1,0 +1,32 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€€™8êœìå°/
+m
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(Ç‘¨şÿÿÿÿ8ïÃğå°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç‘¨şÿÿÿÿ8ïÃğå°/
+V
+java:S4973
+"9Use the "equals" method if value comparison was intended.(—±ÿé8şÄĞå°/
+<
+java:S2129" Remove this "String" constructor(â–ï_8î¸Íå°/
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(©‹°ú8‰ÿÎå°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(íÑ÷×ıÿÿÿÿ8³Êïå°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ó„îŒşÿÿÿÿ8Òî“æ°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–ë„şÿÿÿÿ8ààèå°/
+J
+java:S1125"(Remove the literal "true" boolean value.(Ç‘¨şÿÿÿÿ8ïÃğå°/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(–ë„şÿÿÿÿ8ààèå°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÏîƒúÿÿÿÿ8¨‡Èû°/
+h
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(€€™8êœìå°/
+=
+java:S2129" Remove this "String" constructor(¢ş˜8íÛÍå°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èè“»ÿÿÿÿÿ8Ûª•æ°/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(û«†A8¯‹Ìû°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡¼œœüÿÿÿÿ8ƒÏ‘æ°/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(—±ÿé8ÛĞå°/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8¼¹×š¡/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ”È·şÿÿÿÿ
+m
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(–ë„şÿÿÿÿ8øºéå°/

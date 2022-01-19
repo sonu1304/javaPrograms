@@ -1,0 +1,39 @@
+
+<	java:S131V""Add a default case to this switch.(¬œöíüÿÿÿÿ
+H
+java:S1199X"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ
+S
+java:S1197	"8Move the array designator from the variable to the type.(õêûËúÿÿÿÿ
+S
+java:S1197L"8Move the array designator from the variable to the type.(îÅŒãþÿÿÿÿ
+H
+java:S1199b"-Extract this nested code block into a method.(ðÁ–Óûÿÿÿÿ
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹˜ 
+S
+java:S1197""8Move the array designator from the variable to the type.(„¿º¥ÿÿÿÿÿ
+H
+java:S1199]"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+O
+java:S1197„"8Move the array designator from the variable to the type.(óèµâ
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹˜ 
+;
+java:S1659Q"%Declare "count_1" on a separate line.(¹˜ 
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(ò¤µæ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(ÙÕ˜½ýÿÿÿÿ
+H
+java:S1199="-Extract this nested code block into a method.(ðÁ–Óûÿÿÿÿ
+;
+java:S1659Q"%Declare "count_2" on a separate line.(¹˜ 
+;
+java:S1659Q"%Declare "count_0" on a separate line.(¹˜ 
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ôíˆùÿÿÿÿ
+H
+java:S1199/"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ
+H
+java:S11998"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹˜ 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÊŠõ
+7	java:S131-""Add a default case to this switch.(ÕÈ¥Ÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(œï¡—ýÿÿÿÿ

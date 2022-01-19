@@ -1,0 +1,16 @@
+
+]	java:S125K"<This block of commented-out lines of code should be removed.(éŽ¸Àÿÿÿÿÿ8þçÝñ™/
+Z
+java:S1197"8Move the array designator from the variable to the type.(÷ÁÂ¼ûÿÿÿÿ8¤øìð™/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(À¸ë—8áóÑñ™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÙÀÎúÿÿÿÿ8á–Øñ™/
+U
+java:S1197<"8Move the array designator from the variable to the type.(û—·Ø8ëÖÍñ™/
+^
+java:S1126D"AReplace this if-then-else statement by a single return statement.(¾†³¡8®åÐñ™/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ã´Ä
+U
+java:S1197L"8Move the array designator from the variable to the type.(ü–âÉ8èßñ™/
+T
+java:S1197!"8Move the array designator from the variable to the type.(×®Š>8ßçæð™/
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÊöºüÿÿÿÿ8ñ˜Ãñ™/

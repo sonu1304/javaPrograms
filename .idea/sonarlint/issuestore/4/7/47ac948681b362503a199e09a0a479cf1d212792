@@ -1,0 +1,6 @@
+
+d
+java:S2259#"BA "NullPointerException" could be thrown; "prev" is nullable here.(ÄÎ³ıÿÿÿÿ8š¯®É.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ß¢¥Œÿÿÿÿÿ8Ü¯‰®É.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·«ïM
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿë‚”8Ô£¬­É.

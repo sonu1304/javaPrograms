@@ -1,0 +1,9 @@
+
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(¹ÅáÓıÿÿÿÿ8‘—…÷©/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‹Ñşÿÿÿÿ
+Q
+java:S3740 "/Provide the parametrized type for this generic.(Ğ•ïÃüÿÿÿÿ8šëÚö©/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ê•µš8Ëğşö©/
+r
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ğ•ïÃüÿÿÿÿ8šëÚö©/

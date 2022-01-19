@@ -1,0 +1,20 @@
+
+N
+java:S1197x"8Move the array designator from the variable to the type.(”á
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(÷¡äÿüÿÿÿÿ
+=
+java:S1659‡"!Declare "end" on a separate line.(ÍôÁÑıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÊŠõ
+Q	java:S125~"<This block of commented-out lines of code should be removed.(§™‚ß
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(€Ú­ùÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(àœÃúÿÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(Úí’ıúÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(š•Òã
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(š•Òã
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(š•Òã
+k
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(íÒèÃúÿÿÿÿ
+S
+java:S1197Q"8Move the array designator from the variable to the type.(²šÙŠûÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.( µ˜¹

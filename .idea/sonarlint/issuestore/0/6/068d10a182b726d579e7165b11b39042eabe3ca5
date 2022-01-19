@@ -1,0 +1,11 @@
+
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8£Ö¼Ò°/
+V
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑþøÿÿÿÿ8£Ö¼Ò°/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ì˜À8©¬ÏÒ°/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8§¹Ø©¢/
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8£Ö¼Ò°/
+U
+java:S1197	"8Move the array designator from the variable to the type.(™òÑ…8£Ö¼Ò°/

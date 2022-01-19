@@ -1,0 +1,12 @@
+
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(£âîÇ8°ö ä”/
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(ÇŒğ¹8î±‡‚•/
+W
+java:S1854\"5Remove this useless assignment to local variable "i".(¸úúüÿÿÿÿ8²µƒ‚•/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼Æ½
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(Èø·İ8ÔÈÿã”/
+t	java:S127]"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ8²µƒ‚•/
+\
+java:S2123\":Remove this increment or correct the code not to waste it.(¸úúüÿÿÿÿ8²µƒ‚•/
+U
+java:S1197h"8Move the array designator from the variable to the type.(İóÎ«8˜ëşã”/

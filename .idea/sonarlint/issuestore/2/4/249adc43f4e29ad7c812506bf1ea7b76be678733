@@ -1,0 +1,14 @@
+
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8®‹Žº£/
+X	java:S125-"<This block of commented-out lines of code should be removed.(‰©­8ÖÆ³¸£/
+U
+java:S1854"9Remove this useless assignment to local variable "list1".(–Án8ÆÉú¸£/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8®‹Žº£/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ÆÙ»8ßÙÆ­Õ.
+F
+java:S1481"*Remove this unused "list1" local variable.(–Án8ÆÉú¸£/
+U
+java:S1197"8Move the array designator from the variable to the type.(Ø±Ãÿ8ßÙÆ­Õ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(£†îêúÿÿÿÿ8ÕÁ¨ß‘/

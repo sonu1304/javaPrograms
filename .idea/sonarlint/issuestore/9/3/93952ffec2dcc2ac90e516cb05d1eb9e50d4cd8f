@@ -1,0 +1,11 @@
+
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ÕÓÿ8‰–Ïòª/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‹Ñşÿÿÿÿ
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ôİ¼ğ8„ÅÎòª/
+9
+java:S1700"Rename field "minStack"(´ğ˜şÿÿÿÿ8’‰³òª/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(´ğ˜şÿÿÿÿ8’‰³òª/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(Ôİ¼ğ8¼ÉÓòª/
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(éñ‚¢8’‰³òª/

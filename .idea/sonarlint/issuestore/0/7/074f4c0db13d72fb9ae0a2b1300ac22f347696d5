@@ -1,0 +1,5 @@
+
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8ôÊÿÂ¡/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÍôˆÿÿÿÿÿ
+{
+java:S3012b"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‰ÊÛ³ıÿÿÿÿ8ÃúñÂ¡/
