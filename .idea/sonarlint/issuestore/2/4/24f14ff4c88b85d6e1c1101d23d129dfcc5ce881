@@ -1,0 +1,12 @@
+
+c
+java:S1128"FRemove this unused import 'com.company.SOLID.openClosed.Substraction'.(Çìð´8À˜µ§±/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(óŒãÑ8­Î³©±/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Û’žøÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(‘Üã«8åÃ°©±/
+m
+java:S1104""PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8‹à¬¨±/
+I
+java:S1612",Replace this lambda with a method reference.(Üé’¸8®”°©±/
+l
+java:S1104#"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8›»¯¨±/

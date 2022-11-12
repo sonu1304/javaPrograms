@@ -1,0 +1,13 @@
+
+K
+java:S1121R".Extract the assignment out of this expression.(Í”±û8°ëÚµ®/
+Z
+java:S1197;"8Move the array designator from the variable to the type.(Áµ’ıÿÿÿÿ8Õ Œµ®/
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(Ù©È±8ç—¯ˆ±/
+q
+java:S1128"TRemove this unused import 'com.company.singleLinkedList.interSection.InterSection2'.(”¨™ˆ8µê¯µ®/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Û’øÿÿÿÿ
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(¦³ı¯ÿÿÿÿÿ8ç—¯ˆ±/
+T
+java:S1197""8Move the array designator from the variable to the type.(¸ÉÜs8­«­²®/
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(›€ŞÍúÿÿÿÿ8æ™»²®/

@@ -1,0 +1,9 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "n".(˜˜Ì’úÿÿÿÿ8Ø«Ö·¢/
+]	java:S125"<This block of commented-out lines of code should be removed.(ûÅ„–úÿÿÿÿ8”ê·¢/
+H
+java:S1481"&Remove this unused "n" local variable.(˜˜Ì’úÿÿÿÿ8Ø«Ö·¢/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µúâøÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(×è‰Ý8Ø«Ö·¢/
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(óé²:8¡‘¸·¢/

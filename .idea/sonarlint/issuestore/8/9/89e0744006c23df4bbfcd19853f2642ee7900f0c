@@ -1,0 +1,9 @@
+
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(î¾İÛıÿÿÿÿ8ÃÄÍÓ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ş„½¶ùÿÿÿÿ8ì¨³ÍÓ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çòğøÿÿÿÿ
+U
+java:S1197""8Move the array designator from the variable to the type.(êäÉé8Ã—¾ÍÓ.
+U
+java:S1197"8Move the array designator from the variable to the type.(¯ıÿú8îÇ°ÍÓ.

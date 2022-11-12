@@ -1,0 +1,8 @@
+
+>
+java:S1116"Remove this empty statement.(„ã— üÿÿÿÿ8½ŸóÙ¥/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8çò•Ù¥/
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ìÉĞT8°•ÖÙ¥/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(€óú8™‰ŞÙ¥/

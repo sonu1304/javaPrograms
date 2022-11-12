@@ -1,0 +1,8 @@
+
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(šıÏÕüÿÿÿÿ8´Ä•íª/
+L
+java:S37400"/Provide the parametrized type for this generic.(ÚÖ¯›8´Ä•íª/
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ªÔœÊ«/
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÅı§ûÿÿÿÿ8´Ä•íª/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö‡úäüÿÿÿÿ
