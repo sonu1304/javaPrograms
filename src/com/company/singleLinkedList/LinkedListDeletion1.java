@@ -11,7 +11,7 @@ public class LinkedListDeletion1 {
         head = new_node;
     }
 
-    //delete the firs occurrence of given key
+    //delete the first occurrence of given key
     public void deleteNode(int data) {
         Node temp = head;
         Node prev = null;

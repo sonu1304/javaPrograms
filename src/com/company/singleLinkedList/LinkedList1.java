@@ -9,12 +9,15 @@ public class LinkedList1 {
      //this method will print the list
 
      public void printList() {
+         int c = 0;
          Node n = head;
          
          while(n != null) {
+             c++;
              System.out.print(n.data + " ");
              n = n.next;
          }
+         System.out.println(" c " +c);
      }
 
     public static void main(String[] args) {
